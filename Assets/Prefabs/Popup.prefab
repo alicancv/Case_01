@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 6644157951635114345}
   - component: {fileID: 7254642146795513892}
   m_Layer: 0
-  m_Name: Large Gem Pack
+  m_Name: Large_Gem_Pack_text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -819,7 +819,7 @@ GameObject:
   - component: {fileID: 5929288652585905781}
   - component: {fileID: 8408202833526829107}
   m_Layer: 0
-  m_Name: light
+  m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -985,8 +985,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7340067991940408429}
-  - {fileID: 4867166423840059767}
+  - {fileID: 6876184175820829669}
   - {fileID: 4640655101377610653}
+  - {fileID: 4867166423840059767}
   - {fileID: 4136272886191561357}
   m_Father: {fileID: 8526287682345522216}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1202,7 +1203,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2900107005351830455}
-  - {fileID: 6876184175820829669}
   m_Father: {fileID: 7657473109875942129}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1564,7 +1564,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2998151808439173359}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1574,7 +1574,7 @@ RectTransform:
   - {fileID: 1479550076488593930}
   - {fileID: 3535534365537695934}
   - {fileID: 8664542865382556198}
-  m_Father: {fileID: 8526287682345522216}
+  m_Father: {fileID: 2900107005351830455}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1668,7 +1668,7 @@ GameObject:
   - component: {fileID: 8546368717807676366}
   - component: {fileID: 7406840215521992201}
   m_Layer: 0
-  m_Name: Medium_Gem_Pack
+  m_Name: Medium Gem Pack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3108,7 +3108,7 @@ GameObject:
   - component: {fileID: 4931586173859865726}
   - component: {fileID: 5741300371466569945}
   m_Layer: 0
-  m_Name: time_Bg
+  m_Name: Time_Bg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3431,7 +3431,7 @@ GameObject:
   - component: {fileID: 6755984778504359037}
   - component: {fileID: 3045789505912692110}
   m_Layer: 0
-  m_Name: item_blok
+  m_Name: Item_blok
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3757,7 +3757,7 @@ GameObject:
   - component: {fileID: 8493688017032197630}
   - component: {fileID: 5066139071137708982}
   m_Layer: 0
-  m_Name: item_blok
+  m_Name: Item_blok
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5153,7 +5153,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2748407003312140895, guid: 4dde4a4906ee83b46949221c73886000, type: 3}
       propertyPath: m_Name
-      value: Radiance_Energy__em
+      value: Radiance_Energy_icon
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
