@@ -601,7 +601,7 @@ TextureImporter:
         width: 769
         height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 120, y: 55, z: 94, w: 55}
       outline: []
       physicsShape: []
@@ -622,7 +622,7 @@ TextureImporter:
         width: 769
         height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 72, y: 55, z: 80, w: 43}
       outline: []
       physicsShape: []
@@ -630,6 +630,27 @@ TextureImporter:
       bones: []
       spriteID: 45f8a8d0594131049885045b65eb62df
       internalID: 462845138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 510
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd061fca5a9adae469ba8e0d31944160
+      internalID: -1627191788
       vertices: []
       indices: 
       edges: []
@@ -670,6 +691,7 @@ TextureImporter:
       Vector_1: 834987367
       atlas_0: 164051352
       atlas_1: 462845138
+      atlas_2: -1627191788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
